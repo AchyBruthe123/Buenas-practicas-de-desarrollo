@@ -1,0 +1,10 @@
+eliminacion de codigo comentado (html y js)
+eliminacion de emojis (html y js)
+eliminacion de small (html)
+cambiar el tipo de input de telefono a number y el de email a email (html)
+numero de telefono a 10 digitos (js)
+curp a 18 caracteres (js)
+email con formato valido (js)
+eliminacion de console.log inesesarios (js)
+validacion de datos (js)
+
